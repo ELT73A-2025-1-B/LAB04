@@ -1,0 +1,1 @@
+C:\ST\STM32CubeCLT_1.18.0 
